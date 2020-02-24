@@ -1,4 +1,4 @@
-# Deeplex: Tensorflow deep learning experiment tool
+# A Simple Wrapper for Python Deep learning Frameworks
 
 ## Rule of network definition files
 
